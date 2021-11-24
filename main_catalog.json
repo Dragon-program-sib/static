@@ -1,0 +1,50 @@
+[
+    {
+        "productName": "Mango People T-Shirt",
+        "productPrice": 52,
+        "productImg": "",
+        "productId": "prod_0"
+    },
+    {
+        "productName": "Mango People Blouse",
+        "productPrice": 80,
+        "productImg": "",
+        "productId": "prod_0"
+    },
+    {
+        "productName": "Mango People Jacket",
+        "productPrice": 200,
+        "productImg": "",
+        "productId": "prod_0"
+    },
+    {
+        "productName": "Mango People Dress",
+        "productPrice": 110,
+        "productImg": "",
+        "productId": "prod_0"
+    },
+    {
+        "productName": "Mango People Bathrobe",
+        "productPrice": 50,
+        "productImg": "",
+        "productId": "prod_0"
+    },
+    {
+        "productName": "Mango People Suit",
+        "productPrice": 130,
+        "productImg": "",
+        "productId": "prod_0"
+    },
+    {
+        "productName": "Mango People Trousers",
+        "productPrice": 90,
+        "productImg": "",
+        "productId": "prod_0"
+    },
+    {
+        "productName": "Mango People Hoodie",
+        "productPrice": 70,
+        "productImg": "",
+        "productId": "prod_0"
+    },
+]
