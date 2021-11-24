@@ -1,0 +1,56 @@
+[
+    {
+        "productName": "Mango People Windbreaker",
+        "productPrice": 100,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product1.jpg",
+        "productId": "prod_0"
+    },
+    {
+        "productName": "Mango People Cape",
+        "productPrice": 150,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product2.jpg",
+        "productId": "prod_1"
+    },
+    {
+        "productName": "Mango People Jacket",
+        "productPrice": 200,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product3.jpg",
+        "productId": "prod_2"
+    },
+    {
+        "productName": "Mango People T-Shirt",
+        "productPrice": 50,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product4.jpg",
+        "productId": "prod_3"
+    },
+    {
+        "productName": "Mango People Hoodie",
+        "productPrice": 80,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product5.jpg",
+        "productId": "prod_4"
+    },
+    {
+        "productName": "Mango People Tracksuit",
+        "productPrice": 120,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product6.jpg",
+        "productId": "prod_5"
+    },
+    {
+        "productName": "Mango People Costume",
+        "productPrice": 170,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product7.jpg",
+        "productId": "prod_6"
+    },
+    {
+        "productName": "Mango People Coat",
+        "productPrice": 210,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product8.jpg",
+        "productId": "prod_7"
+    },
+    {
+        "productName": "Mango People T-Shirt",
+        "productPrice": 55,
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product_catalog/product9.jpg",
+        "productId": "prod_8"
+    },
+]
