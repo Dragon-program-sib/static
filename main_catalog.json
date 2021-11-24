@@ -2,49 +2,49 @@
     {
         "productName": "Mango People T-Shirt",
         "productPrice": 52,
-        "productImg": "",
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product1.jpg",
         "productId": "prod_0"
     },
     {
         "productName": "Mango People Blouse",
         "productPrice": 80,
-        "productImg": "",
-        "productId": "prod_0"
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product2.jpg",
+        "productId": "prod_1"
     },
     {
         "productName": "Mango People Jacket",
         "productPrice": 200,
-        "productImg": "",
-        "productId": "prod_0"
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product3.jpg",
+        "productId": "prod_2"
     },
     {
         "productName": "Mango People Dress",
         "productPrice": 110,
-        "productImg": "",
-        "productId": "prod_0"
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product4.jpg",
+        "productId": "prod_3"
     },
     {
         "productName": "Mango People Bathrobe",
         "productPrice": 50,
-        "productImg": "",
-        "productId": "prod_0"
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product5.jpg",
+        "productId": "prod_4"
     },
     {
         "productName": "Mango People Suit",
         "productPrice": 130,
-        "productImg": "",
-        "productId": "prod_0"
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product6.jpg",
+        "productId": "prod_5"
     },
     {
         "productName": "Mango People Trousers",
         "productPrice": 90,
-        "productImg": "",
-        "productId": "prod_0"
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product7.jpg",
+        "productId": "prod_6"
     },
     {
         "productName": "Mango People Hoodie",
         "productPrice": 70,
-        "productImg": "",
-        "productId": "prod_0"
+        "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/product8.jpg",
+        "productId": "prod_7"
     },
 ]
