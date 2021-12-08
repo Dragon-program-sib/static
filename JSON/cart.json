@@ -1,20 +1,20 @@
 {
-    "totalAmount": 3,
-    "totalPrice": 270,
+    "totalAmountCart": 3,
+    "totalPriceCart": 270,
     "content": [
         {
-            "productName": "Rebox Zane",
-            "productPrice": 100,
-            "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/cart/cart-drop1.jpg",
-            "productId": "prod_3",
-            "amount": 2
+            "productNameCart": "Rebox Zane",
+            "productPriceCart": 100,
+            "productImgCart": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/cart/cart-drop1.jpg",
+            "productIdCart": "prod_3",
+            "amountCart": 2
         },
         {
-            "productName": "Rebox Zane",
-            "productPrice": 70,
-            "productImg": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/cart/cart-drop2.jpg",
-            "productId": "prod_4",
-            "amount": 1
+            "productNameCart": "Rebox Zane",
+            "productPriceCart": 70,
+            "productImgCart": "https://raw.githubusercontent.com/Dragon-program-sib/static/main/img/cart/cart-drop2.jpg",
+            "productIdCart": "prod_4",
+            "amountCart": 1
         }
     ]
 }
